@@ -10,25 +10,25 @@ The application will create a new project, add tags to it, upload images and tra
 
 Go to the [Custom Vision website](https://customvision.ai) and sign in. Then click on **Settings** and copy the **Training Key**. 
 
-![Custom Vision sample](../media/custom-vision/img-01.jpg)
+![Custom Vision sample](../media/custom-vision/img-01.JPG)
 
 Run the application and select the option of creating a new project. Paste your Training Key, enter a Project Name, number of tags and your images. The sample will upload your images in batch, so paste your **folder patch** for each tag.
 
-![Custom Vision sample](../media/custom-vision/img-02.jpg)
+![Custom Vision sample](../media/custom-vision/img-02.JPG)
 
 After uploading your images, the application will train the model according to your tags. If you go back to the [Custom Vision website](https://customvision.ai), you'll see that your project was created successfully.
 
-![Custom Vision sample](../media/custom-vision/img-03.jpg)
+![Custom Vision sample](../media/custom-vision/img-03.JPG)
 
 ## Quick Test
 
 After training your project, you can take quick tests to see how accurate the model is to classify your image. Go to the [Custom Vision website](https://customvision.ai), select your project, click on **Performance** tab and then click on **Prediction URL**. We'll need the Prediction URL for **image files** and the **Prediction Key**.
 
-![Custom Vision sample](../media/custom-vision/img-04.jpg)
+![Custom Vision sample](../media/custom-vision/img-04.JPG)
 
 Run the application and select the option of testing an image. Paste your Prediction Key, Prediction URL and the image path you want to test. It's important to remember the image you want to test don't have to be an image you used for training the project.
 
-![Custom Vision sample](../media/custom-vision/img-05.jpg)
+![Custom Vision sample](../media/custom-vision/img-05.JPG)
 
 ## References
 
