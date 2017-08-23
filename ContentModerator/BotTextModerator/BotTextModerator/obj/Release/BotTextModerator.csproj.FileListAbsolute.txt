@@ -1,0 +1,40 @@
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\Bot Application.dll.config
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\Bot Application.dll
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\Bot Application.pdb
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\Autofac.dll
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\Chronic.dll
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\Microsoft.Bot.Builder.dll
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\Microsoft.Bot.Connector.dll
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\Microsoft.Rest.ClientRuntime.dll
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\Newtonsoft.Json.dll
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\System.Net.Http.Formatting.dll
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\System.Web.Http.dll
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\System.Web.Http.WebHost.dll
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\Autofac.xml
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\Microsoft.Bot.Builder.xml
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\Microsoft.Bot.Connector.xml
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\Newtonsoft.Json.xml
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\System.Net.Http.Formatting.xml
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\System.Web.Http.xml
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\System.Web.Http.WebHost.xml
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\obj\Release\Bot Application.dll
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\obj\Release\Bot Application.pdb
+C:\source\BotBB\Samples\BotTextModerator\BotTextModerator\obj\Release\BotTextModerator.csprojResolveAssemblyReference.cache

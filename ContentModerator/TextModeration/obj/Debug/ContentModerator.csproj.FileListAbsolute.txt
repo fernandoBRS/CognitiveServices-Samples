@@ -1,0 +1,8 @@
+C:\source\BotBB\Samples\ContentModerator\ContentModerator\obj\Debug\ContentModerator.csprojResolveAssemblyReference.cache
+C:\source\BotBB\Samples\ContentModerator\ContentModerator\bin\Debug\ContentModerator.exe.config
+C:\source\BotBB\Samples\ContentModerator\ContentModerator\bin\Debug\ContentModerator.exe
+C:\source\BotBB\Samples\ContentModerator\ContentModerator\bin\Debug\ContentModerator.pdb
+C:\source\BotBB\Samples\ContentModerator\ContentModerator\bin\Debug\Newtonsoft.Json.dll
+C:\source\BotBB\Samples\ContentModerator\ContentModerator\bin\Debug\Newtonsoft.Json.xml
+C:\source\BotBB\Samples\ContentModerator\ContentModerator\obj\Debug\ContentModerator.exe
+C:\source\BotBB\Samples\ContentModerator\ContentModerator\obj\Debug\ContentModerator.pdb

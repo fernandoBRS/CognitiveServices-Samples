@@ -1,0 +1,16 @@
+C:\source\BotBB\ContentModeratorText\ContentModeratorText\bin\Debug\ContentModeratorText.exe.config
+C:\source\BotBB\ContentModeratorText\ContentModeratorText\bin\Debug\ContentModeratorText.exe
+C:\source\BotBB\ContentModeratorText\ContentModeratorText\bin\Debug\ContentModeratorText.pdb
+C:\source\BotBB\ContentModeratorText\ContentModeratorText\bin\Debug\Newtonsoft.Json.dll
+C:\source\BotBB\ContentModeratorText\ContentModeratorText\bin\Debug\Newtonsoft.Json.xml
+C:\source\BotBB\ContentModeratorText\ContentModeratorText\obj\Debug\ContentModeratorText.csprojResolveAssemblyReference.cache
+C:\source\BotBB\ContentModeratorText\ContentModeratorText\obj\Debug\ContentModeratorText.exe
+C:\source\BotBB\ContentModeratorText\ContentModeratorText\obj\Debug\ContentModeratorText.pdb
+C:\source\BotBB\Samples\ContentModeratorText\ContentModeratorText\bin\Debug\ContentModeratorText.exe.config
+C:\source\BotBB\Samples\ContentModeratorText\ContentModeratorText\obj\Debug\ContentModeratorText.exe
+C:\source\BotBB\Samples\ContentModeratorText\ContentModeratorText\obj\Debug\ContentModeratorText.pdb
+C:\source\BotBB\Samples\ContentModeratorText\ContentModeratorText\bin\Debug\ContentModeratorText.exe
+C:\source\BotBB\Samples\ContentModeratorText\ContentModeratorText\bin\Debug\ContentModeratorText.pdb
+C:\source\BotBB\Samples\ContentModeratorText\ContentModeratorText\bin\Debug\Newtonsoft.Json.dll
+C:\source\BotBB\Samples\ContentModeratorText\ContentModeratorText\bin\Debug\Newtonsoft.Json.xml
+C:\source\BotBB\Samples\ContentModeratorText\ContentModeratorText\obj\Debug\ContentModeratorText.csprojResolveAssemblyReference.cache

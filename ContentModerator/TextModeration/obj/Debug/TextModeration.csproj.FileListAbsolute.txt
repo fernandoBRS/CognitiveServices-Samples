@@ -1,0 +1,9 @@
+C:\source\CognitiveServices-Samples\ContentModerator\ListManagement\bin\Debug\TextModeration.exe.config
+C:\source\CognitiveServices-Samples\ContentModerator\TextModeration\bin\Debug\TextModeration.exe.config
+C:\source\CognitiveServices-Samples\ContentModerator\TextModeration\bin\Debug\TextModeration.exe
+C:\source\CognitiveServices-Samples\ContentModerator\TextModeration\bin\Debug\TextModeration.pdb
+C:\source\CognitiveServices-Samples\ContentModerator\TextModeration\bin\Debug\Newtonsoft.Json.dll
+C:\source\CognitiveServices-Samples\ContentModerator\TextModeration\bin\Debug\Newtonsoft.Json.xml
+C:\source\CognitiveServices-Samples\ContentModerator\TextModeration\obj\Debug\TextModeration.csprojResolveAssemblyReference.cache
+C:\source\CognitiveServices-Samples\ContentModerator\TextModeration\obj\Debug\TextModeration.exe
+C:\source\CognitiveServices-Samples\ContentModerator\TextModeration\obj\Debug\TextModeration.pdb

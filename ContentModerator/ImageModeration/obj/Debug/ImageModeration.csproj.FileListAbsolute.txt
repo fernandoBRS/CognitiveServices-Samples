@@ -1,0 +1,8 @@
+C:\source\CognitiveServices-Samples\ContentModerator\ImageModeration\bin\Debug\ImageModeration.exe.config
+C:\source\CognitiveServices-Samples\ContentModerator\ImageModeration\bin\Debug\ImageModeration.exe
+C:\source\CognitiveServices-Samples\ContentModerator\ImageModeration\bin\Debug\ImageModeration.pdb
+C:\source\CognitiveServices-Samples\ContentModerator\ImageModeration\bin\Debug\Newtonsoft.Json.dll
+C:\source\CognitiveServices-Samples\ContentModerator\ImageModeration\bin\Debug\Newtonsoft.Json.xml
+C:\source\CognitiveServices-Samples\ContentModerator\ImageModeration\obj\Debug\ImageModeration.csprojResolveAssemblyReference.cache
+C:\source\CognitiveServices-Samples\ContentModerator\ImageModeration\obj\Debug\ImageModeration.exe
+C:\source\CognitiveServices-Samples\ContentModerator\ImageModeration\obj\Debug\ImageModeration.pdb

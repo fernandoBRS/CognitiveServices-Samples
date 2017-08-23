@@ -7,4 +7,6 @@ Some samples were adapted from official Cognitive Services repository on Github 
 
 ## Samples
 
+- [Content Moderator](https://github.com/fernandoBRS/CognitiveServices-Samples/tree/master/ContentModerator): Explore the Content Moderator API to track and filter out offensive and unwanted content that creates risks for businesses.
+
 - [Custom Vision](https://github.com/fernandoBRS/CognitiveServices-Samples/tree/master/CustomVision): Explore the Custom Vision API for building custom image classifiers.
