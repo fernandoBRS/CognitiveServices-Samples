@@ -1,0 +1,13 @@
+C:\source\BotBB\Samples\Cognitive-Speech-STT-Windows\samples\SpeechRecognitionServiceExample\obj\amd64\batman.wav
+C:\source\BotBB\Samples\Cognitive-Speech-STT-Windows\samples\SpeechRecognitionServiceExample\obj\amd64\whatstheweatherlike.wav
+C:\source\BotBB\Samples\Cognitive-Speech-STT-Windows\samples\SpeechRecognitionServiceExample\obj\amd64\SpeechToText-WPF-Sample.exe.config
+C:\source\BotBB\Samples\Cognitive-Speech-STT-Windows\samples\SpeechRecognitionServiceExample\obj\amd64\SpeechToText-WPF-Sample.exe
+C:\source\BotBB\Samples\Cognitive-Speech-STT-Windows\samples\SpeechRecognitionServiceExample\obj\amd64\SpeechClient.dll
+C:\source\BotBB\Samples\Cognitive-Speech-STT-Windows\samples\SpeechRecognitionServiceExample\obj\x64\Release\MainWindow.baml
+C:\source\BotBB\Samples\Cognitive-Speech-STT-Windows\samples\SpeechRecognitionServiceExample\obj\x64\Release\MainWindow.g.cs
+C:\source\BotBB\Samples\Cognitive-Speech-STT-Windows\samples\SpeechRecognitionServiceExample\obj\x64\Release\App.g.cs
+C:\source\BotBB\Samples\Cognitive-Speech-STT-Windows\samples\SpeechRecognitionServiceExample\obj\x64\Release\SpeechToText-WPF-Sample_Content.g.cs
+C:\source\BotBB\Samples\Cognitive-Speech-STT-Windows\samples\SpeechRecognitionServiceExample\obj\x64\Release\SpeechToText-WPF-Sample_MarkupCompile.cache
+C:\source\BotBB\Samples\Cognitive-Speech-STT-Windows\samples\SpeechRecognitionServiceExample\obj\x64\Release\SpeechToText-WPF-Sample.g.resources
+C:\source\BotBB\Samples\Cognitive-Speech-STT-Windows\samples\SpeechRecognitionServiceExample\obj\x64\Release\SpeechToText-WPF-Sample.exe
+C:\source\BotBB\Samples\Cognitive-Speech-STT-Windows\samples\SpeechRecognitionServiceExample\obj\x64\Release\SpeechToText-WPF-Sample.csprojResolveAssemblyReference.cache

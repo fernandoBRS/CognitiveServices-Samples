@@ -1,0 +1,14 @@
+C:\source\CognitiveServices-Samples\BingSpeechToText\BingSpeechToText\objd\amd64\BingSpeechToText.exe.config
+C:\source\CognitiveServices-Samples\BingSpeechToText\BingSpeechToText\objd\amd64\batman.wav
+C:\source\CognitiveServices-Samples\BingSpeechToText\BingSpeechToText\objd\amd64\whatstheweatherlike.wav
+C:\source\CognitiveServices-Samples\BingSpeechToText\BingSpeechToText\objd\amd64\BingSpeechToText.exe
+C:\source\CognitiveServices-Samples\BingSpeechToText\BingSpeechToText\objd\amd64\BingSpeechToText.pdb
+C:\source\CognitiveServices-Samples\BingSpeechToText\BingSpeechToText\obj\x64\Debug\MainWindow.baml
+C:\source\CognitiveServices-Samples\BingSpeechToText\BingSpeechToText\obj\x64\Debug\MainWindow.g.cs
+C:\source\CognitiveServices-Samples\BingSpeechToText\BingSpeechToText\obj\x64\Debug\App.g.cs
+C:\source\CognitiveServices-Samples\BingSpeechToText\BingSpeechToText\obj\x64\Debug\BingSpeechToText_Content.g.cs
+C:\source\CognitiveServices-Samples\BingSpeechToText\BingSpeechToText\obj\x64\Debug\BingSpeechToText_MarkupCompile.cache
+C:\source\CognitiveServices-Samples\BingSpeechToText\BingSpeechToText\obj\x64\Debug\BingSpeechToText.g.resources
+C:\source\CognitiveServices-Samples\BingSpeechToText\BingSpeechToText\obj\x64\Debug\BingSpeechToText.exe
+C:\source\CognitiveServices-Samples\BingSpeechToText\BingSpeechToText\obj\x64\Debug\BingSpeechToText.pdb
+C:\source\CognitiveServices-Samples\BingSpeechToText\BingSpeechToText\obj\x64\Debug\BingSpeechToText.csprojResolveAssemblyReference.cache
